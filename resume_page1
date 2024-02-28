@@ -1,0 +1,55 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RESUME</title>
+</head>
+<body>
+    <fieldset>
+       <center><h2>MANJUNATH M P</h2></center>
+       <center><h5>manjumaalagi7@gmail.com|9538658244</h5></center>
+       <u><h3>OBJECTIVE</h3></u>
+       <p>To work in organisation with responsibility and declaration towards the job putting more effort to acheive the vision and mission of 
+          the company as an individual and also in association with the same.
+       </p>
+       <u><h3>EDUCATION</h3></u>
+       <b><p>BAPUJI COLLEGE,DAVANAERE</p></b>
+       <p>Course:BCA,CGPA:8.47</p>
+       <b><p>ST.ALOYSIUS PU COLLEGE,HARIHARA</p></b>
+       <p>CGPA:8.50</p>
+       <b><p>TARABALU SCHOOL</p></b>
+       <p>CGPA:7.2</p>
+       <u><b><p>TECHNICAL SKILLS</p></b></u>
+       <ul>
+        <li>core java</li>
+        <li>html,css</li>
+        <li>sql</li>
+       </ul>
+       <u><b><h3>PROJECTS</h3></b></u>
+       <b><p>AN EFFICIENT AND SECURE BACKUP SYSTEM USING MULTI-CLOUDAND CLOUD-COMPUTING</p></b>
+       <ul>
+        <li>It is useful for booking the online appointment for the patient in online it reduce medical errors it will 
+            become easier for data record and retrival
+        </li>
+       </ul>
+       <u><b>HOBBIES</b></u>
+       <ul>
+        <li>Listing Music</li>
+        <li>playing cricket</li>
+       </ul>
+       <u><b><h3>PERSONAL PROFILE</h3></b></u>
+       <ul>
+        <li>Name:Manjunath M P</li>
+        <li>Phone number:9538658244</li>
+        <li>Date of birth:22-01-2001</li>
+        <li>Gender:Male</li>
+        <li>Language known:Kannada,Hindi,English</li>
+        <li>Address:2/32,DAVANAERE</li>
+       </ul>
+       <u><b><h3>DECLARATION</h3></b></u>
+       <p>I here by declare that the above information is true the best of my language</p>
+       <br>
+       <p>place:Bangaluru</p>
+    </fieldset>
+</body>
+</html>
